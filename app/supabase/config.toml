@@ -1,0 +1,4 @@
+project_id = "huaqzkqrhdowpgyglyud"
+
+[functions.airia-proxy]
+verify_jwt = false
